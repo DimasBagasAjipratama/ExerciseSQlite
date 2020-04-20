@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise SQlite</string>
+    <string name="dftarkontk">Daftar Kontak </string>
+    <string name="tmbhkontk">Tambah Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notelepon">No Telepon</string>
+    <string name="email">Email</string>
+    <string name="almt">Alamat</string>
+    <string name="smpnbtn">Simpan</string>
+    <string name="edt">Edit</string>
+    <string name="dlte">Delete</string>
+    <string name="tmbh">Tambah Data</string>
+</resources>
